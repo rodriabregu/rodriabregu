@@ -28,7 +28,7 @@
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Aprender mientras HOPING & HUSTLING!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
   </p>
   
-  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <img align="right" width=300px alt="programmer" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif" />
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de cosas personales...***
   
@@ -63,7 +63,7 @@
 <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="postgresql" width="40" height="40"/> </a>
 </p>
  <hr>
-  
+  <!--
   Aquí hay algunos [🦜 loros](https://cultofthepartyparrot.com):
   
   <div>
@@ -93,6 +93,7 @@
       <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
   </div>
    <hr>
+-->
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/rodriabregu/github-readme-stats -->
 ## 📘 Mis mejores proyectos:
