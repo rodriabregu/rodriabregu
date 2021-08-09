@@ -93,7 +93,28 @@
       <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
   </div>
    <hr>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="rodri-abregu" /> </p>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/rodriabregu/github-readme-stats -->
+## 📘 Mis mejores proyectos:
+
+
+<p align="left">
+  <a href="https://github.com/rodriabregu/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/rodriabregu/movie-finder-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=movie-finder-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="movie-finder-app"></a>
+  <a href="https://github.com/rodriabregu/PI-Countries-FT14a"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=PI-Countries-FT14a&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="p-countries"></a>
+  <a href="https://github.com/rodriabregu/Counter-App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=Counter-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="counter-app"></a>
+  <a href="https://github.com/rodriabregu/App-Weather"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rodriabregu&repo=App-Weather&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app"></a>
+  <a href="https://github.com/rodriabregu/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+</p>
+<hr>
+## 🔥 Streak stats
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rodriabregu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rodriabregu&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+    <hr>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="rodri-abregu" /> </p>   
   <!--
   **rodriabregu/rodriabregu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   Here are some ideas to get you started:
