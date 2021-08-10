@@ -96,24 +96,29 @@
 -->
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/rodriabregu/github-readme-stats -->
-## 📘 Mis mejores proyectos:
+<h3 align='center'>## 📘 Mis mejores proyectos:</h3>
 
-<p align="left">
-  <a href="https://github.com/rodriabregu/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/rodriabregu/movie-finder-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=movie-finder-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="movie-finder-app"></a>
-  <a href="https://github.com/rodriabregu/PI-Countries-FT14a"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=PI-Countries-FT14a&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="p-countries"></a>
-  <a href="https://github.com/rodriabregu/Counter-App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=Counter-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="counter-app"></a>
-  <a href="https://github.com/rodriabregu/App-Weather"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rodriabregu&repo=App-Weather&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app"></a>
-  <a href="https://github.com/rodriabregu/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-</p>
-
-<p align="center">
-    <h3 align="left">Proyecto Api countries</h3> <h3 align="center">Movie finder app</h3>
-    <a href="https://github.com/rodriabregu/PI-Countries-FT14a" target="_blank"><img align="left" width="256" height="160" alt="pi-countries"                        src="https://i.giphy.com/media/ALj4hdUgUt6STWQmO5/giphy.webp" /></a>
-    <a href="https://github.com/rodriabregu/movie-finder-app" target="_blank"><img align="rigth" width="256" height="160" alt="movies-finder-app" src="https://i.giphy.com/media/m18NY5MRnCDjQbfGhU/giphy.webp" /></a>
-    <h3 align="left">Counter app</h3> <h3 align="center">Wheater app</h3>
-    <a href="https://github.com/rodriabregu/Counter-App" target="_blank"><img align="left" width="256" height="160" alt="counter-app" src="https://i.giphy.com/media/3pW6siHjdK22jVzEnj/giphy.webp" /></a>
-    <a href="https://github.com/rodriabregu/App-Weather" target="_blank"><img align="center" width="256" height="160" alt="weather-app" src="https://i.giphy.com/media/fgxYUKDxbTJ0SCsnjB/giphy.webp" /></a> 
+<p>
+<div align='center'>
+<a href="https://github.com/rodriabregu/PI-Countries-FT14a"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=PI-Countries-FT14a&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="p-countries"></a>
+<a href="https://github.com/rodriabregu/PI-Countries-FT14a" target="_blank"><img width="296" height="190" alt="pi-countries"                        src="https://i.giphy.com/media/ALj4hdUgUt6STWQmO5/giphy.webp" /></a>
+</div>
+<br />
+<div align='center'>
+<a href="https://github.com/rodriabregu/movie-finder-app"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=movie-finder-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="movie-finder-app"></a>
+<a href="https://github.com/rodriabregu/movie-finder-app" target="_blank"><img width="296" height="190" alt="movies-finder-app" src="https://i.giphy.com/media/m18NY5MRnCDjQbfGhU/giphy.webp" /></a>
+</div>
+<br />
+<div align='center'>
+<a href="https://github.com/rodriabregu/Counter-App"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=Counter-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="counter-app"></a>
+<a href="https://github.com/rodriabregu/Counter-App" target="_blank"><img width="296" height="190" alt="counter-app" src="https://i.giphy.com/media/3pW6siHjdK22jVzEnj/giphy.webp" /></a>
+</div>
+<br />
+<div align='center'>
+<a href="https://github.com/rodriabregu/App-Weather"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rodriabregu&repo=App-Weather&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app"></a>
+<a href="https://github.com/rodriabregu/App-Weather" target="_blank"><img width="296" height="190" alt="weather-app" src="https://i.giphy.com/media/fgxYUKDxbTJ0SCsnjB/giphy.webp" /></a>
+</div>
+<hr>
 </p>
 <!--
 <p align="center">
