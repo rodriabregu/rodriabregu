@@ -109,11 +109,11 @@
 
 <p align="center">
     <h3 align="left">Proyecto Api countries</h3> <h3 align="center">Movie finder app</h3>
-    <a href="https://github.com/rodriabregu/PI-Countries-FT14a" target="_blank"><img align="left" width="426" height="240" alt="pi-countries"                        src="https://i.giphy.com/media/ALj4hdUgUt6STWQmO5/giphy.webp" /></a>
-    <a href="https://github.com/rodriabregu/movie-finder-app" target="_blank"><img align="rigth" width="426" height="240" alt="movies-finder-app" src="https://i.giphy.com/media/m18NY5MRnCDjQbfGhU/giphy.webp" /></a>
+    <a href="https://github.com/rodriabregu/PI-Countries-FT14a" target="_blank"><img align="left" width="256" height="160" alt="pi-countries"                        src="https://i.giphy.com/media/ALj4hdUgUt6STWQmO5/giphy.webp" /></a>
+    <a href="https://github.com/rodriabregu/movie-finder-app" target="_blank"><img align="rigth" width="256" height="160" alt="movies-finder-app" src="https://i.giphy.com/media/m18NY5MRnCDjQbfGhU/giphy.webp" /></a>
     <h3 align="left">Counter app</h3> <h3 align="center">Wheater app</h3>
-    <a href="https://github.com/rodriabregu/Counter-App" target="_blank"><img align="left" width="426" height="240" alt="counter-app" src="https://i.giphy.com/media/3pW6siHjdK22jVzEnj/giphy.webp" /></a>
-    <a href="https://github.com/rodriabregu/App-Weather" target="_blank"><img align="center" width="426" height="240" alt="weather-app" src="https://i.giphy.com/media/fgxYUKDxbTJ0SCsnjB/giphy.webp" /></a> 
+    <a href="https://github.com/rodriabregu/Counter-App" target="_blank"><img align="left" width="256" height="160" alt="counter-app" src="https://i.giphy.com/media/3pW6siHjdK22jVzEnj/giphy.webp" /></a>
+    <a href="https://github.com/rodriabregu/App-Weather" target="_blank"><img align="center" width="256" height="160" alt="weather-app" src="https://i.giphy.com/media/fgxYUKDxbTJ0SCsnjB/giphy.webp" /></a> 
 </p>
 <!--
 <p align="center">
