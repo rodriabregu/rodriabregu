@@ -33,12 +33,12 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de cosas personales...***
   
 <!--   ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br> -->
-  ✔ Actualmente estoy desarrollando proyectos de manera **independiente**<br>
-  ✔ Actualmente estoy perfeccionando **ReactJS** & **NodeJS**<br>
+  ✔ Actualmente estoy desarrollando proyectos de manera **independiente.**<br>
+  ✔ Me encuentro perfeccionando **ReactJS** & **NodeJS.**<br>
   ✔ Estoy abierto a colaborar con cualquier contribución de **código abierto.**<br>
-  ✔ Actualmente estoy aprendiendo **NestJS** & **VUE**<br>
+  ✔ Y en tiempos libres estoy aprendiendo **NestJS** & **VUE**<br>
   ✔ Pregúntame cualquier cosa, estoy feliz de ayudar, ¡dentro de mis conocimientos! 😉<br>
-  ✔ Dato curioso: A la hora de programar, dispongo de mejor rendimiendo a la **noche** <br><br><br><br>
+  ✔ Dato curioso: A la hora de programar, dispongo de mejor rendimiendo a la **noche.** <br><br><br><br>
    
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes y herramientas que conozco...***
