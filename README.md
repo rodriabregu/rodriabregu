@@ -100,8 +100,8 @@
 
 <p>
 <div align='center'>
-<a href="https://github.com/rodriabregu/PI-Countries-FT14a"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=PI-Countries-FT14a&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="p-countries"></a>
-<a href="https://github.com/rodriabregu/PI-Countries-FT14a" target="_blank"><img width="296" height="190" alt="pi-countries"                        src="https://i.giphy.com/media/ALj4hdUgUt6STWQmO5/giphy.webp" /></a>
+<a href="Country-project-App"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=Country-project-Appa&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="p-countries"></a>
+<a href="https://github.com/rodriabregu/Country-project-App" target="_blank"><img width="296" height="190" alt="pi-countries"                        src="https://i.giphy.com/media/ALj4hdUgUt6STWQmO5/giphy.webp" /></a>
 </div>
 <br />
 <div align='center'>
