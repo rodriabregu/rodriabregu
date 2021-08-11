@@ -100,7 +100,7 @@
 
 <p>
 <div align='center'>
-<a href="Country-project-App"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=Country-project-App&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="p-countries"></a>
+<a href="https://github.com/rodriabregu/Country-project-App"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=Country-project-App&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="p-countries"></a>
 <a href="https://github.com/rodriabregu/Country-project-App" target="_blank"><img width="296" height="190" alt="pi-countries"                        src="https://i.giphy.com/media/ALj4hdUgUt6STWQmO5/giphy.webp" /></a>
 </div>
 <br />
@@ -115,8 +115,8 @@
 </div>
 <br />
 <div align='center'>
-<a href="https://github.com/rodriabregu/App-Weather"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rodriabregu&repo=App-Weather&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app"></a>
-<a href="https://github.com/rodriabregu/App-Weather" target="_blank"><img width="296" height="190" alt="weather-app" src="https://i.giphy.com/media/fgxYUKDxbTJ0SCsnjB/giphy.webp" /></a>
+<a href="https://github.com/rodriabregu/Weather-App"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rodriabregu&repo=App-Weather&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app"></a>
+<a href="https://github.com/rodriabregu/Weather-App" target="_blank"><img width="296" height="190" alt="weather-app" src="https://i.giphy.com/media/fgxYUKDxbTJ0SCsnjB/giphy.webp" /></a>
 </div>
 <hr>
 </p>
