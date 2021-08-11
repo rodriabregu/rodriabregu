@@ -105,8 +105,8 @@
 </div>
 <br />
 <div align='center'>
-<a href="https://github.com/rodriabregu/movie-finder-app"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=movie-finder-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="movie-finder-app"></a>
-<a href="https://github.com/rodriabregu/movie-finder-app" target="_blank"><img width="296" height="190" alt="movies-finder-app" src="https://i.giphy.com/media/m18NY5MRnCDjQbfGhU/giphy.webp" /></a>
+<a href="https://github.com/rodriabregu/movie-finder-app"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodriabregu&repo=Movie-finder-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Movie-finder-App"></a>
+<a href="https://github.com/rodriabregu/Movie-finder-App" target="_blank"><img width="296" height="190" alt="movies-finder-app" src="https://i.giphy.com/media/m18NY5MRnCDjQbfGhU/giphy.webp" /></a>
 </div>
 <br />
 <div align='center'>
