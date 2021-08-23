@@ -18,8 +18,8 @@
   
   <p align="center">
     <em>
-      Soy un estudiante <b>finalizando sus estudios</b> en <a href="https://www.soyhenry.com/"> <b>Soy Henry</b></a>. <br>
-      Un principiante <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>programador entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
+      Soy desarrollador <b>Full-Stack</b> graduado de <a href="https://www.soyhenry.com/"> <b>Soy Henry</b></a>. <br>
+      Un desarrollador <b>que siempre aprende</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>programador muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
       con la idea de <b>superarse</b> y quiere una <b>plataforma</b> para 
       <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> y 
       <b>sobresalir</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -30,14 +30,14 @@
   
   <img align="right" width=300px alt="programmer" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif" />
   
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de cosas personales...***
+  <!--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">-->&nbsp;***Hablando de cosas personales...***
   
 <!--   ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br> -->
-  ✔ Actualmente estoy desarrollando proyectos de manera **independiente.**<br>
+  ✔ Actualmente soy Backend Engineer en **Chiper Co.**<br>
   ✔ Me encuentro perfeccionando **ReactJS** & **NodeJS.**<br>
   ✔ Estoy abierto a colaborar con cualquier contribución de **código abierto.**<br>
   ✔ Y en tiempos libres estoy aprendiendo **NestJS** & **VUE**<br>
-  ✔ Pregúntame cualquier cosa, estoy feliz de ayudar, ¡dentro de mis conocimientos! 😉<br>
+  ✔ Pregúntame cualquier cosa, estoy feliz de ayudar 😉<br>
   ✔ Dato curioso: A la hora de programar, dispongo de mejor rendimiendo a la **noche.** <br><br><br><br>
    
   
