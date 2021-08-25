@@ -30,7 +30,7 @@
   
   <img align="right" width=300px alt="programmer" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif" />
   
-  <!--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">-->&nbsp;***Hablando de cosas personales...***
+  <!--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">-->&nbsp;**Hablando de cosas personales...**
   
 <!--   ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br> -->
   ✔ Actualmente soy Backend Engineer en **Chiper Co.**<br>
