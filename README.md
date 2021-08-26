@@ -25,23 +25,23 @@
       <b>sobresalir</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
     </em> 
     <br>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Aprender mientras HOPING & HUSTLING!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Aprender mientras aprendes!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
   </p>
   
   <img align="right" width=300px alt="programmer" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif" />
   
-  <!--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">-->&nbsp;**Hablando de cosas personales...**
+  **Hablando de cosas personales...**
   
 <!--   ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br> -->
   ✔ Actualmente soy Backend Engineer en **Chiper Co.**<br>
   ✔ Me encuentro perfeccionando **ReactJS** & **NodeJS.**<br>
   ✔ Estoy abierto a colaborar con cualquier contribución de **código abierto.**<br>
   ✔ Y en tiempos libres estoy aprendiendo **NestJS** & **VUE**<br>
-  ✔ Pregúntame cualquier cosa, estoy feliz de ayudar 😉<br>
+  ✔ Consultame lo que necesites 😉<br>
   ✔ Dato curioso: A la hora de programar, dispongo de mejor rendimiendo a la **noche.** <br><br><br><br>
    
   
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes y herramientas que conozco...***
+***Lenguajes y herramientas que conozco...***
   <p align="left">
   
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -93,6 +93,9 @@
       <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
   </div>
    <hr>
+-->
+<!--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 -->
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/rodriabregu/github-readme-stats -->
