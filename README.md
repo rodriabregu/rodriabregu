@@ -122,13 +122,14 @@
 </div>
 <hr>
 </p>
-
+<!--
 <p align="center">
     <br />
   <a href="https://github.com/DenverCoder1/github-readme-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rodriabregu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rodriabregu&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+-->
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="rodri-abregu" /> </p>
