@@ -20,9 +20,7 @@
     <em>
       Soy desarrollador <b>Full-Stack</b> graduado de <a href="https://www.soyhenry.com/"> <b>Soy Henry</b></a>. <br>
       Un desarrollador <b>que siempre aprende</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>programador muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
-      con la idea de <b>superarse</b> y quiere una <b>plataforma</b> para 
-      <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> y 
-      <b>sobresalir</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+      con la idea de <b>superarse</b>&nbsp.
     </em> 
     <br>
   </p>
