@@ -29,7 +29,6 @@
   
   **Hablando de cosas personales...**
   
-<!--   ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br> -->
   ✔ Actualmente soy Backend Engineer en **Chiper Co.**<br>
   ✔ Me encuentro perfeccionando **ReactJS** & **NodeJS.**<br>
   ✔ Y en tiempos libres estoy aprendiendo **NestJS** & **VUE.**<br>
