@@ -6,15 +6,9 @@
   <h3 align="center">Full-Stack Developer | Redactor de contenido técnico | Aficionado a la autosuperación</h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/rodrigoalcino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodri" height="30" width="40" /></a>
- <!--  <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rodri abregu" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@rodriabregu_" height="30" width="40" /></a>
-  <a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rodriabregu" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rodriabregu" height="30" width="40" /></a> -->
    <a href = "mailto: rodrigo_alcino@hotmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
   </p>
   </p>
-  
-  
   
   <p align="center">
     <em>
@@ -59,42 +53,6 @@
 <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="postgresql" width="40" height="40"/> </a>
 </p>
  <hr>
-  <!--
-  Aquí hay algunos [🦜 loros](https://cultofthepartyparrot.com):
-  
-  <div>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-  </div>
-   <hr>
--->
-<!--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
--->
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/rodriabregu/github-readme-stats -->
 <h3 align='center'>## 📘 Mis mejores proyectos:</h3>
 
 <p>
@@ -119,26 +77,6 @@
 </div>
 <hr>
 </p>
-<!--
-<p align="center">
-    <br />
-  <a href="https://github.com/DenverCoder1/github-readme-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rodriabregu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rodriabregu&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
--->
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="rodri-abregu" /> </p>
-  <!--
-  **rodriabregu/rodriabregu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  Here are some ideas to get you started:
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
