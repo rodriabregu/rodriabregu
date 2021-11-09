@@ -9,7 +9,6 @@
    <a href = "mailto: rodrigo_alcino@hotmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
   </p>
   </p>
-  
   <p align="center">
     <em>
       Soy desarrollador <b>Full-Stack</b> graduado de <a href="https://www.soyhenry.com/"> <b>Soy Henry</b></a>. <br>
@@ -77,6 +76,5 @@
 </div>
 <hr>
 </p>
-
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="rodri-abregu" /> </p>
