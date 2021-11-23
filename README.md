@@ -26,7 +26,7 @@
   ✔ Me encuentro perfeccionando **ReactJS** & **NodeJS.**<br>
   ✔ Y en tiempos libres estoy aprendiendo **NestJS** & **VUE.**<br>
   ✔ Estoy abierto a colaborar con cualquier contribución de **código abierto.**<br>
-  ✔ Consultame lo que necesites 😉.<br>
+  ✔ Consultame lo que necesites 😁.<br>
   ✔ Dato curioso: a la hora de programar, dispongo de mejor rendimiendo a la **noche.** <br><br><br><br>
    
   
