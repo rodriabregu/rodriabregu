@@ -12,7 +12,7 @@
   <p align="center">
     <em>
       Soy desarrollador <b>Full-Stack</b> graduado de <a href="https://www.soyhenry.com/"> <b>Soy Henry</b></a>. <br>
-      Un desarrollador <b>que siempre aprende</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>programador muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
+      Un desarrollador <b>que siempre aprende</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>programador muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" alt="dude">&nbsp,<br>que está <b>obsesionado</b>
       con la idea de <b>superarse</b>&nbsp.
     </em> 
     <br>
