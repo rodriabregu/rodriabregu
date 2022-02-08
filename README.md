@@ -12,8 +12,8 @@
   <p align="center">
     <em>
       Soy desarrollador <b>Full-Stack</b> graduado de <a href="https://www.soyhenry.com/"> <b>Soy Henry</b></a>. <br>
-      Un desarrollador <b>que siempre aprende</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>programador muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" alt="dude">&nbsp,<br>que está <b>obsesionado</b>
-      con la idea de <b>superarse</b>&nbsp.
+      Un desarrollador <b>siempre aprendiendo</b> y <b>muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp,<br> <b>obsesionado</b>
+      con la idea de <b>auto-superarse</b>.
     </em> 
     <br>
   </p>
@@ -22,9 +22,9 @@
   
   **Hablando de cosas personales...**
   
-  ✔ Actualmente soy Backend Engineer en **Chiper Co.**<br>
-  ✔ Me encuentro perfeccionando **ReactJS** & **NodeJS.**<br>
-  ✔ Y en tiempos libres estoy aprendiendo **NestJS** & **VUE.**<br>
+  ✔ Actualmente soy Frontend mobile Engineer en **Chiper Co.**<br>
+  ✔ Me encuentro perfeccionando **React Native** & **TypeScript.**<br>
+  ✔ Y en tiempos libres estoy aprendiendo **NextJS** & **NestJS.**<br>
   ✔ Estoy abierto a colaborar con cualquier contribución de **código abierto.**<br>
   ✔ Consultame lo que necesites 😁.<br>
   ✔ Dato curioso: a la hora de programar, dispongo de mejor rendimiendo a la **noche.** <br><br><br><br>
@@ -40,6 +40,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactNative" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
