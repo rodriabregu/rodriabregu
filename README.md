@@ -70,10 +70,6 @@
 <a href="https://github.com/rodriabregu/Counter-App" target="_blank"><img width="296" height="190" alt="counter-app" src="https://i.giphy.com/media/3pW6siHjdK22jVzEnj/giphy.webp" /></a>
 </div>
 <br />
-<div align='center'>
-<a href="https://github.com/rodriabregu/Weather-App"><img width="296" height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rodriabregu&repo=Weather-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app"></a>
-<a href="https://github.com/rodriabregu/Weather-App" target="_blank"><img width="296" height="190" alt="weather-app" src="https://i.giphy.com/media/fgxYUKDxbTJ0SCsnjB/giphy.webp" /></a>
-</div>
 <hr>
 </p>
 
