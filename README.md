@@ -2,7 +2,7 @@
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
   </p>
   <hr>
-  <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Rodrigo Alcino</h1>
+  <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, soy Rodrigo Alcino</h1>
   <h3 align="center">Full-Stack Developer | Redactor de contenido técnico</h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/rodrigoalcino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodri" height="30" width="40" /></a>
@@ -12,13 +12,13 @@
   <p align="center">
     <em>
       Soy desarrollador <b>Full-Stack</b> orientado a <b>Front-End</b>. <br>
-      Un desarrollador <b>siempre aprendiendo</b> y <b>muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp,<br> <b>obsesionado</b>
+      Un desarrollador <b>siempre aprendiendo</b> y <b>muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px">&nbsp,<br> <b>obsesionado</b>
       con la idea de <b>auto-superarse</b>.
     </em> 
     <br>
   </p>
   
-  <img align="right" width=300px alt="programmer" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif" />
+  <img align="right" width="300px" height="300px" alt="programmer" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif" />
   
   **Hablando de cosas personales...**
   
