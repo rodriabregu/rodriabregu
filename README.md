@@ -24,7 +24,7 @@
   
   ✔ Actualmente soy Frontend mobile Engineer en **Chiper Co.**<br>
   ✔ Me encuentro perfeccionando **React Native** & **TypeScript.**<br>
-  ✔ Y en tiempos libres estoy aprendiendo **NextJS** & **NestJS.**<br>
+  ✔ Y en tiempos libres estoy aprendiendo **NextJS** & **Tauri.**<br>
   ✔ Estoy abierto a colaborar con cualquier contribución de **código abierto.**<br>
   ✔ Consultame lo que necesites 😁.<br>
    
