@@ -12,8 +12,8 @@
   <p align="center">
     <em>
       Soy desarrollador <b>Full-Stack</b> orientado a <b>Front-End</b>. <br>
-      Un desarrollador <b>siempre aprendiendo</b> y <b>muy entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px">&nbsp,<br> <b>obsesionado</b>
-      con la idea de <b>auto-superarse</b>.
+      Constantemente <b>aprendiendo</b> y siempre <b>entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px">&nbsp,<br> <b>obsesionado</b>
+      con <b>auto-superarme</b>.
     </em> 
     <br>
   </p>
