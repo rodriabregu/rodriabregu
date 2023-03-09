@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rodrigo, a developer specialized in front end. I currently live in Gold Coast, Australia.
+I'm Rodri, a developer specialized in front end. I currently live in Gold Coast, Australia.
 
 - 🔭 I’m currently working at Chiper.co
 - 📂 Main tech skills: TypeScript, React, React Native.
